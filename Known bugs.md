@@ -1,0 +1,15 @@
+V 1.0.0
+
+### Known bugs ###
+
+1. Upon startup, if pressing a key before the program asks the user to choose a DB type, WILL CRASH
+
+2. Upon specifying DB type, if entering anything else than [1] or [2], WILL CRASH
+
+3. Upon entering password, if password is incorrect, WILL FREEZE
+
+4. Upon entering Databasenames, will show all databases, even ones the user might not have access to, and upon accessing
+these databases, WILL CRASH
+4.1 Databasenames must be divided with a [ ] "SPACE" otherwise they will be melted together
+
+5. Upon choosing to open the created file, won't close the terminal after the selection
