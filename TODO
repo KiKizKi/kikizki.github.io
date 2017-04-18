@@ -11,14 +11,11 @@
 
 ## TODO improvements into V: 1.0.1 ##
 
-1. Fix known bug (N.1)
 
-2. Add a failsafe method to known bug (N.2)
+1. Add another attempt(s) at entering username / password, incase they fail
 
-3. Add another attempt(s) at entering username / password, incase they fail
+2. Remove the databases shown to user, which the user doesnt have access to
 
-4. Remove the databases shown to user, which the user doesnt have access to
+3. After creating the file, FORCE to close the program 
 
-5. After creating the file, FORCE to close the program 
-
-6. Merge the whole program into a single .executable
+4. Merge the whole program into a single .executable
