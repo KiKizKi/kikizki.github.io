@@ -2,9 +2,9 @@ V 1.0.0
 
 Known bugs
 
-1. Upon startup, if pressing a key before the program asks the user to choose a DB type, WILL CRASH
 
-2. Upon specifying DB type, if entering anything else than [1] or [2], WILL CRASH
+
+
 
 3. Upon entering password, if password is incorrect, WILL FREEZE
 
