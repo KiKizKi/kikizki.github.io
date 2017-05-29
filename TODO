@@ -6,12 +6,9 @@
 #######  Console Application  #######
 #####  Retrieves Metadata From  #####
 ####  FireBird or SQL Databases   ###
-#####  Windows Edition V:1.0.3  #####
+#####  Windows Edition V:1.0.6  #####
 #####################################
 
-## TODO improvements into V: 1.0.4 ##
+## TODO improvements into V: 1.0.7 ##
 
-
-
-
-1. Merge the whole program into a single .executable
+1. Make an UI
