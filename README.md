@@ -34,7 +34,7 @@ TCP/IP access to the database, ->LAN
 
 For the available versions, use the [github](https://github.com/KiKizKi/kikizki.github.io)
 
-Current Version: 1.0.3
+Current Version: 1.0.7
  
  
 
